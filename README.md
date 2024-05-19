@@ -1,12 +1,4 @@
-### Title:
-**GAN-Framework: A PyTorch-Based Generative Adversarial Network Framework**
 
-### Short Description:
-GANimator is an open-source Python library utilizing PyTorch to facilitate the easy creation and training of Generative Adversarial Networks (GANs). Designed for both educational purposes and practical applications, this toolkit allows users to explore GAN architectures, train models, and generate new content.
-
-### README.md:
-
-```markdown
 # PyTorch GAN Framework
 
 GAN-Framework, a flexible toolkit for building and training Generative Adversarial Networks (GANs) using PyTorch. Whether you are a student, researcher, or developer, this provides an accessible platform to experiment with GAN models.
